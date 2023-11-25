@@ -1,0 +1,67 @@
+.jobs {
+  border: 1px solid rgba(128, 128, 128, 0.5);
+  max-width: 400px;
+  margin: 25px auto;
+  padding: 15px;
+}
+.user-item {
+  max-width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid rgba(128, 128, 128, 0.5);
+}
+
+.job-form {
+  border: 1px solid rgba(128, 128, 128, 0.5);
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.job-form input {
+  height: 28px;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+.job-form button {
+  padding: 8px;
+  margin-bottom: 10px;
+  cursor: pointer;
+  background-color: rgb(59, 59, 167);
+  color: #fff;
+}
+
+.job-form button:hover {
+  background-color: rgb(118, 118, 230);
+  cursor: pointer;
+}
+
+h2 {
+  text-align: center;
+}
+
+.job-item button {
+  padding: 5px 15px;
+  margin-top: 10px;
+  background-color: rgb(59, 59, 167);
+  color: #fff;
+}
+
+.job-item button:hover {
+  background-color: rgb(118, 118, 230);
+  cursor: pointer;
+}
+
+.jobs button {
+  padding: 8px;
+  margin-bottom: 10px;
+  background-color: rgb(59, 59, 167);
+  color: #fff;
+}
+
+.jobs button:hover {
+  background-color: rgb(118, 118, 230);
+  cursor: pointer;
+}
